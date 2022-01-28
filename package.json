@@ -1,0 +1,16 @@
+{
+  "name": "drift-ftx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Lilyknight",
+  "license": "ISC",
+  "dependencies": {
+    "@drift-labs/sdk": "^0.1.18-orders.1",
+    "ccxt": "^1.70.76",
+    "dotenv": "^14.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.12"
+  }
+}
